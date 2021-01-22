@@ -2,5 +2,7 @@
 *.user
 CefSimple/GPUCache/
 x64/
+Debug/
+Release/
 packages/
 
