@@ -1,0 +1,6 @@
+.vs/
+*.user
+CefSimple/GPUCache/
+x64/
+packages/
+
